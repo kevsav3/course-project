@@ -1,0 +1,12 @@
+x_train = data included in the X_train.txt file
+y_train = data included in the Y_train.txt file
+subject_train = data included in the subject_train.txt file
+x_test = data included in the X_test.txt file
+y_test =  data included in the Y_test.txt file
+subject_test = data included in the sunject_train.txt file
+train = column bind of subject_train, y_train, and x_train
+test = column bind of subject_test, y_test, and x_test
+full_set = row bind of train and test
+
+good_set = only mean and standard dev measurements
+final_set = final output
